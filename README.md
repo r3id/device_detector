@@ -1,6 +1,6 @@
 # Device Detector
 
-[![Build Status](https://travis-ci.org/creadone/device_detector.svg?branch=master)](https://travis-ci.org/creadone/device_detector)
+[![Build Status](https://travis-ci.org/r3id/device_detector.svg?branch=master)](https://travis-ci.org/r3id/device_detector)
 
 The library for parsing User Agent and browser, operating system, device used (desktop, tablet, mobile, tv, cars, console, etc.), vendor and model detection. Currently it is an alpha-version and haven't been tested on production yet. The Library uses regexes from [matomo-org/device-detector](https://github.com/matomo-org/device-detector).
 
