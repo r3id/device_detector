@@ -14,4 +14,3 @@ license: MIT
 dependencies:
   baked_file_system:
     github: schovi/baked_file_system
-    branch: master
