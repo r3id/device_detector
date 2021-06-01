@@ -11,7 +11,7 @@ Add this to your application's `shard.yml`:
 ```yaml
 dependencies:
   device_detector:
-    github: creadone/device_detector
+    github: r3id/device_detector
 ```
 
 Then run `shards install`
